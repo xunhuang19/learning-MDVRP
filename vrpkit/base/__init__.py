@@ -1,0 +1,1 @@
+"""This module contains a basic vehicle routing data model and its elements"""

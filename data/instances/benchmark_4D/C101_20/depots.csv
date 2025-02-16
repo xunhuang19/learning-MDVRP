@@ -1,0 +1,5 @@
+depot_id,long,lat,carrier_id
+d0,32,58,0
+d1,63,58,1
+d2,32,32,2
+d3,63,32,3
